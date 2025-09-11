@@ -1,23 +1,46 @@
 ---
 title: About
 layout: page
-order: 503
+order: 60
 outputs:
   - html
 ---
 
-This is a starter theme for [Quire](https://gettypubs.github.io/quire/), a multiformat digital publishing framework. Quire can be used to generate a web book, EPUB and MOBI e-books, and a PDF optimized for print; all from a single set of text files. 
+**The *Carter Bulletin* advances the Amon Carter Museum of American Art’s commitment to knowledge creation through scholarly research on topics drawn from the Museum’s collection, archives, and programs.**
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
+The Amon Carter Museum of American Art was established through the generosity of Amon G. Carter Sr. (1879–1955) to house his collection of paintings and sculpture by Frederic Remington and Charles M. Russell; to collect, preserve, and exhibit the finest examples of American art; and to serve all communities through exhibitions, publications, and experiences devoted to the celebration of American creativity.
 
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
+This inaugural volume of the *Carter Bulletin* benefits from the support of the Gentling Study Center.
 
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
+Amon Carter Museum of American Art
+3501 Camp Bowie Boulevard
+Fort Worth, Texas 76107
+[cartermuseum.org](https://www.cartermuseum.org/)
 
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
+© 2025 Amon Carter Museum of American Art, Fort Worth, Texas. All rights reserved. First edition.
 
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+**Board of Trustees, Amon Carter Museum of American Art**
+Robert M. Bass
+Mary Constance Beck
+Stephen W. Butt
+John Allen Chalk
+Michael Conforti
+Glenn K. Davidson
+Walker C. Friedman
+Karen J. Hixon, President
+Christina R. Johnson
+Mark L. Johnson, *Vice President*
+J. Bryan King
+J. Luther King Jr.
+David M. Porter
+Stephen P. Smiley
+Nenetta C. Tatum
+
+**For the Amon Carter Museum of American Art**
+Allee Austin / *Associate Archivist and Records Manager*
+Selena Capraro / *Associate Registrar*
+Andrew Eschelbacher / *Director of Collections and Exhibitions*
+Will Gillham / *Editor and Publisher*
+Paul Leicht / *Photographer*
+Michelle Padilla / *Digital Content Strategist*
+Steve Watson / *Imaging and Digital Assets Manager*

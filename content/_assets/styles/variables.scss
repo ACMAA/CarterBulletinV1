@@ -94,11 +94,11 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $noto-sans !default;
-  $quire-headings-font: $ibm-sans !default;
+  $quire-primary-font: $noto-serif !default;
+  $quire-headings-font: $noto-sans !default;
   $quire-footnotes-font: $noto-serif !default;
   $quire-navigation-font: $noto-sans !default;
-  $accent-color: $red !default;
+  $accent-color: #A43C31 !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;
 }

@@ -13,20 +13,20 @@ url: 'http://localhost:8080'
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
-reading_line:
+title: Carter Bulletin
+subtitle: Vol. 1
+reading_line: "Charles M. Russell: New Perspectives"
 short_title:
 
 description:
   one_line:
-  full: "In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history."
+  full: "This inaugural volume of the *Carter Bulletin* underscores the Amon Carter Museum of American Art’s commitment to knowledge creation through independent scholarship relating to the Museum’s collection. No artist is more appropriate for this first issue than Charles Marion Russell (1864−1926), the artist whose work defines in large measure the foundational collection at the Museum. Amon G. Carter Sr., the Museum’s namesake, amassed an in-depth collection of works by both Russell and Frederic Remington, making the Museum a prime resource for any study of their mythologizing of the American West. That romantic vision, however, is increasingly challenged by the real experiences of Indigenous communities who vied for power on the frontier. The essays in this issue consider that gap between romanticism and reality with fresh perspectives toward making Russell a fully realized artist working within complex social histories."
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2022-12-01 # YYYY-MM-DD
+pub_date: 2025-12-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -34,10 +34,10 @@ identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
-    url:
-    logo: logo-getty.png
+  - name: Amon Carter Museum of American Art
+    location: Fort Worth, Texas
+    url: http://cartermuseum.org/
+    logo: carter_logo_BLUE.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -46,26 +46,75 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: swigmore
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Spencer
+    last_name: Wigmore
+    title: Patrick and Aimee Butler Associate Curator of American Paintings
+    affiliation: Minneapolis Institute of Art
+    bio: "Dr. Spencer Wigmore is the Patrick and Aimee Butler Associate Curator of American Paintings at the Minneapolis Institute of Art (Mia). He studied art history at Carleton College, later earning his PhD from the University of Delaware. Prior to his appointment at Mia, Wigmore was Curator of Fine Art at the Minnesota Historical Society, and before that he was Associate Curator of Paintings, Sculpture, and Works on Paper at the Amon Carter Museum of American Art in Fort Worth, Texas, where he assisted with a pivotal reinstallation of the Carter’s permanent collection and curated numerous exhibitions. He is a co-author of the *Carter Handbook* (2023)."
+    url: https://new.artsmia.org/hub/people-culture/spencer-wigmore-qa
+    image: contributors/wigmore_spencer.jpg
+    
+  - id: akjohnson
+    type: primary
+    first_name: Annika K.
+    last_name: Johnson
+    title: Stacy and Bruce Simon Curator of Native American Art
+    affiliation: Joslyn Art Museum
+    bio: "Dr. Annika K. Johnson is the inaugural Stacy and Bruce Simon Curator of Native American Art at the Joslyn Art Museum in Omaha, Nebraska, where she develops exhibitions and research initiatives in collaboration with Indigenous communities. She earned her PhD in art history from the University of Pittsburgh. Her curatorial projects include *Faces from the Interior: The North American Portraits of Karl Bodmer* (2021), *Dripping Earth: Cannupa Hanska Luger* (2025), and *The Growing Thunder Collective* (2027)."
+    image: contributors/johnson_annika_k.jpg
+
+  - id: ecburns
+    type: primary
+    first_name: Emily C.
+    last_name: Burns
+    title: Director of the Charles M. Russell Center for the Study of Art of the American West
+    affiliation: University of Oklahoma
+    bio: "Dr. Emily C. Burns is Director of the Charles M. Russell Center for the Study of Art of the American West at the University of Oklahoma, which supports the pursuit and dissemination of knowledge about the art of the western United States. She earned a BA from Union College, an MA from George Washington University, and a PhD in art history and archaeology from Washington University in St. Louis. She is author of numerous publications, including *Transnational Frontiers: The American West in France* (2018), and is a co-editor of *The Routledge Companion to Art and the Formation of Empire* (2025) and *The Routledge Companion to Art and Challenges to Empire* (2025)."
+    url: https://www.ou.edu/finearts/visual-arts/people/faculty-and-staff/emily-burns
+    image: contributors/burns_emily_c.jpg
+    
+  - id: mmckaycody
+    type: primary
+    first_name: Melanie
+    last_name: McKay-Cody
+    title: Assistant Professor in the Department of Disability and Psychoeducational Studies
+    affiliation: University of Arizona
+    bio: "Dr. Melanie McKay-Cody (Cherokee, Shawnee, Powhatan, and Montauk descendant) is Assistant Professor in the Department of Disability and Psychoeducational Studies, as well as a courtesy professor in the Department of Linguistics, at the University of Arizona, where she studies critically endangered Indigenous Sign Languages in North America. A Cherokee Deaf, she studied art history at Gallaudet University in Washington, DC, earned twin MAs from the University of Kansas and the University of Arizona, and a PhD from the University of Oklahoma. She is one of the world's leading researchers on North American Indian Sign Language and is a founder of Turtle Island Hand Talk, a group focused on Indigenous Deaf, Hard of Hearing, DeafBlind, and Hearing people."
+    url: https://naair.arizona.edu/person/melanie-mckay-cody
+    image: contributors/mckay-cody_melanie.jpg
+    
+  - id: mdwise
+    type: primary
+    first_name:  Michael D.
+    last_name: Wise
+    title: Associate Professor of History
+    affiliation: University of North Texas
+    bio: "Dr. Michael Wise is Professor of History at the University of North Texas and an environmental historian of the North American West. He studied history at Whitman College in Walla Walla, WA, and Montana State University in Bozeman before earning his PhD from the University of Minnesota in Minneapolis. He is the author of *Producing Predators: Wolves, Work, and Conquest in the Northern Rockies* (2016) as well as many articles and essays on food, agriculture, and animal-human relationships."
+    url: https://history.unt.edu/people/michael-wise.html
+    image: contributors/wise_michael_d.jpg
+    
+  - id: isampson
+    type: secondary
+    first_name:  Ian
+    last_name: Sampson
+    title: Cartoonist, Printmaker, and Interdisciplinary Educator
+    affiliation: West Virginia University
+    bio: "Ian Sampson is a cartoonist, printmaker, and interdisciplinary educator who earned a BFA from Virginia Commonwealth University and an MFA from the University of Delaware. In addition to his illustrative work, which focuses on nonfiction comics in the fields of graphic medicine and American history, he teaches college in and around Philadelphia, where he lives with his family. His work has appeared in publications including the *Annals of Internal Medicine*, the *Society of Illustrators Comic and Cartoon Art Annual*, and *Makeout Creek*."
+    url: https://creativeartsandmedia.wvu.edu/people/ian-sampson
+    image: contributors/sampson_ian.jpg
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2022 J. Paul Getty Trust
+copyright: © 2025 Amon Carter Museum of American Art
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: Attribution-NonCommercial-NoDerivatives 4.0 International
+  abbreviation: CC BY-NC-ND 4.0
+  url: https://creativecommons.org/licenses/by-nc-nd/4.0/
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
@@ -86,15 +135,11 @@ resource_link:
   - type: footer-link
     name: About
     link_relation: about
-    url: /about/
+    url: https://www.cartermuseum.org/about
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
+    url: https://www.cartermuseum.org/privacy-policy
 
 # ------------------------------------------------------------------------------
 # Subjects
@@ -121,4 +166,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: fig-4-11_1961-195.jpg

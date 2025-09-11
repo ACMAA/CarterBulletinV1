@@ -1,129 +1,463 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    alt: "Shot low and looking up at an old model car on a dirt row with a hill behind. A woman sits on the roof of the car holding a large camera and smiling."
+  - id: "fig-1-1"
+    label: "Figure 1-1"
+    src: figures/fig-1-1_TU2009.39.256.jpg
+    caption: "Unknown, Charles M. Russell and Nancy C. Russell's Montana Home, late 19th-early 20th century, gelatin silver negative"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.256.7a](https://collections.gilcrease.org/object/tu2009392567a)"
+    alt: "A black-and-white photograph of a two-story clapboard house with a wrap-around-porch; a log cabin off to one side."
 
-  - id: "evans"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-    alt: "A seated man looking away to the left, his hand at his cheek, his hair mussed, a slight worried expression on his face."
+  - id: "fig-1-2"
+    label: "Figure 1-2"
+    src: figures/fig-1-2_TU2009.39.7651.jpg
+    caption: "Unknown, Charles M. Russell in Indian Costume, ca. 1911, gelatin silver print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.7651.129](https://collections.gilcrease.org/object/tu2009397651129)"
+    alt: "A sepia-toned photograph of a White man, his face painted to look like a Native American, wearing long braids, blankets around his shoulders, holding a rifle."
 
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A man, from the chest up, in a decorated uniform turned to look at the camera. Other men in similar attire talk amongst one another in the background."
+  - id: "fig-1-3"
+    label: "Figure 1-3"
+    src: figures/fig-1-3_TU2009.39.jpg
+    caption: "Unknown, Charles M. Russell, late 19th-early 20th century, silver gelatin print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.7473](https://collections.gilcrease.org/object/tu2009397473)"
+    alt: "A black-and-white photograph, slightly out of focus, of a shirtless white man with a cloth over his head, pointing a bow and arrow at the camera, while sitting on a makeshift horse."
 
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "Three boys standing in matching pants, white shirts, dark ties, and hats. Two look at the camera, unamused, the other’s attention is elsewhere."
+  - id: "fig-1-4"
+    label: "Figure 1-4"
+    src: figures/fig-1-4_TU2009.39.262.jpg
+    caption: "Unknown, Inside of Charles M. Russell's Studio, late 19th-early 20th century, gelatin silver print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.262.152](https://collections.gilcrease.org/object/tu200939262152)"
+    alt: "A black-and-white photograph of the inside of a log cabin room with a fireplace and Native American blankets and clothing hanging from beams."
 
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A large stone cross in the foreground, with smaller grave markers receding behind. Further back are brick row houses and behind them a row of factory towers which stretch across most of the top of the frame."
+  - id: "fig-2-1"
+    label: "Figure 2-1"
+    src: figures/fig-2-1_TU2009.39.7471A-B_o6.jpg
+    caption: "Unknown, Charles M. Russell Studio, late 19th-early 20th century, silver gelatin print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.7471a-b](https://collections.gilcrease.org/object/tu2009397471a-b)"
+    alt: "A sepia-toned photograph of the corner of a room filled with Native American blankets, clothing, and other paraphernalia."
 
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A small group of people standing in front of a doorway and rough wooden wall of a building, looking at a book in one man's hands and singing. Other figures are cropped out along the edges."
+  - id: "fig-2-2"
+    label: "Figure 2-2"
+    src: figures/fig-2-2_L2012-15-6.jpg
+    caption: "Charles M. Russell (1864-1926), *York*, 1908, watercolor, 19 x 25 1/2 in."
+    credit: "Montana Historical Society Collection, Gift of the artist, [X1909.01.01](https://mthsmuseum.catalogaccess.com/objects/373)"
+    alt: "A watercolor painting of a group of mostly Indigenous people inside a wood structure; a shirtless Black man is in the center, and a White man wearing a tricorn hat is seated in a corner."
 
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-    alt: "A man sitting in a doorway and a young woman beside him in a chair, both barefoot, on the porch of a wooden house."
+  - id: "fig-2-3"
+    label: "Figure 2-3"
+    src: figures/fig-2-3_1965-169-50.jpg
+    caption: "Karl Bodmer (1809-1893), *The Interior of the Hut of a Mandan Chief.*, ca. 1840-44, mezzotint and etching, 11 1/16 x 16 5/16 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, [1965.169.50](https://www.cartermuseum.org/collection/interior-hut-mandan-chief-196516950)"
+    alt: "A black-and-white print of several Indigenous people, dogs, and horses inside of a wood structure; hunting equipment, hides, and other items scattered around."
 
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "An abandoned-looking wooden shack darkly colored and standing straight against a light, empty expanse of sparsely vegetated dessert and cloudy sky."
+  - id: "fig-2-4"
+    label: "Figure 2-4"
+    src: figures/fig-2-4_Plains-Artist-Buffalo-Rawhide-ParflecheS991.19.364.jpg
+    caption: "Charles M. Russell (1864-1926), Parfleche; rawhide medicine bag, ca. 1901, rawhide and paint"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.364"
+    alt: "A folded animal hide knapsack decorated with blue, yellow, and red diamond designs."
 
-  - id: "vid-1"
-    poster: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    label: "Video 1"
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "A narrow, unmarked paved road stretching away diagonally from the bottom right. On one side a row of houses and multi-pronged telegraph or electrical poles, on the other side a gas station sign and single car and figure."
+  - id: "fig-2-5"
+    label: "Figure 2-5"
+    src: figures/fig 2-5_shirt front and back.jpg
+    caption: "Big Bear maker, Man's shirt, ca. 1900, buckskin, glass beads, wool, ermine tails"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.373"
+    alt: "Two views of an animal skin shirt with fringe and intricate beaded designs in blue, orange, yellow, and green."
 
-  - id: "table-1"
-    src: "tables/evans-works.html"
-    media_type: table
+  - id: "fig-2-6"
+    label: "Figure 2-6"
+    src: figures/fig-2-6_Fort-Belknap-buckskin-leggings_S991.19.372a,b_pub.jpg
+    caption: "Big Bear maker, Man's buckskin leggings, ca. 1900, glass beads, buckskin, ermine tails"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.372a,b"
+    alt: "A pair of animal skin leggings with fringe down the sides and colorful beaded designs in blue, yellow, green, and red."
 
-  - id: "audio-1"
-    media_id: 336879231
-    media_type: soundcloud
-    label: "Audio 1"
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-    credit: "© J. Paul Getty Trust"
+  - id: "fig-2-7"
+    label: "Figure 2-7"
+    src: figures/fig-2-7.jpg
+    caption: "Sumner W. Matteson (1867-1920), *Indians at Fort Belknap Reservation*, 1905, gelatin silver print"
+    credit: "Milwaukee Public Museum, [43757](https://www.mpm.edu/node/26376)"
+    alt: "A black-and-white photograph of three Indigenous people: a child and two adults dressed in native clothing including full feathered headdresses."
 
-  - id: "cat-1"
-    src: figures/lange-mother-a.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-    alt: "Close in shot of a mother with her hand to her cheek, two children pressed against either side but turned away, a baby just visible on her lap."
+  - id: "fig-2-8"
+    label: "Figure 2-8"
+    src: figures/fig-2-8_007_VIII-441.jpg
+    caption: "Unknown, Frank Bird Linderman, Charles M. Russell, and Chippewa Chief Big Rock in front of a lodge, 1916"
+    credit: "Archives & Special Collections, Mansfield Library, University of Montana, [007.VIII.441](https://www.mtmemory.org/nodes/view/24902)" 
+    alt: "A black-and-white photograph of three men standing in front of a tipi: a White man wearing a fringed shirt, an Indigenous man wearing native clothing and holding a peace pipe, and a White man wearing a cowboy hat, jacket and tie."
 
-  - id: "mother-variants"
-    label: "Figure 1.1"
-    caption: "Alternate versions of Dorothea Lange’s *Migrant Mother*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-    annotations:
-      - input: radio
-        items:
-        - src: figures/lange-mother-b.jpg
-          label: "Variant #1"
-        - src: figures/lange-mother-c.jpg
-          label: "Variant #2"
+  - id: "fig-2-9"
+    label: "Figure 2-9"
+    src: figures/fig-2-9_coat-front-and-back.jpg
+    caption: "Cree maker, Hudson Bay wool blanket, ca. 1900, wool"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.462"
+    alt: "Two views of a cream-colored coat with a blue stripe on the sleeves and bottom edge, and a red tassel at the end of the hood."
 
-  - id: "mother-annotations"
-    src: "figures/lange-layers/base.jpg"
-    zoom: true
-    label: "Figure 1.2"
-    caption: "This version of the print from the Library of Congress Prints and Photographs Division is mounted on paper board and includes an original FSA label. Note too the thumb seen in the lower right corner. It is also visible in the Getty‘s print, but Lange’s negative was later retouched to remove the thumb and in later prints, it is only a ghostly shadow."
-    annotations:
-      - input: checkbox
-        items:
-          - src: "figures/lange-layers/original-label.png"
-            selected: true
-          - src: "figures/lange-layers/additional-label.png"
-          - src: "figures/lange-layers/scratches.png"
-          - src: "figures/lange-layers/thumb.png"
-            selected: true
+  - id: "fig-2-10"
+    label: "Figure 2-10"
+    src: figures/fig-2-10_01-1621_recto.jpg
+    caption: "Charles M. Russell (1864-1926), *Buffalo Coat*, 1908, oil on canvas, 21 1/4 x 15 1/2 in."
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [01.1621](https://collections.gilcrease.org/object/011621)"
+    alt: "An oil painting of a Native American man: red paint on his face, long braided hair, a white coat over one shoulder, red pants, holding a rifle."
 
-  - id: "cat-2"
-    src: figures/evans-fields-family-a.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-    zoom: true
-    alt: "A woman seated in a bed nursing a child, a man on a chair beside them, in a room with plain wooden floor and walls, both barefoot and staring at the camera."
+  - id: "fig-2-11"
+    label: "Figure 2-11"
+    src: figures/fig-2-11_Cree-Beaded-Armbands-and-Cuffs_S991.19393a,b.jpg
+    caption: "Cree maker, Beaded armbands and cuffs, ca. 1910, beads, fabric, rawhide"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.393a,b"
+    alt: "Beaded accessories that feature a colorful floral design on a white background."
 
-  - id: "cat-2-b"
-    src: figures/evans-fields-family-b.jpg
-    caption: "Walker Evans, *Sharecropper's Family, Hale County, Alabama / Bud Fields and His Family, Hale County, Alabama / Bud Woods and His Family*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "Parents and four children of varying ages, seated and posing for the camera in a room with plain wooden floor and walls."
+  - id: "fig-2-12"
+    label: "Figure 2-12"
+    src: figures/fig-2-12_CMRussell-Coup-Stick_Society-Lance_S991.19.287.jpg
+    caption: "Charles M. Russell (1864-1926), Coup Stick / Society Lance, ca. 1890s, iron, fur, flannel"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.287"
+    alt: "A stick wrapped with furs and feathers, a blade at one end."
 
-  - id: "cat-2-c"
-    src: figures/evans-bud-fields.jpg
-    caption: "Walker Evans, * [William Edward (Bud) Fields, A Cotton Sharecropper, Hale County, Alabama]/[Bud Woods, Tenant Farmer]*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    alt: "Portrait of a bare-chested moustached man, with a patterned bandana draped over his shoulders, photographed from the chest up, staring straight into the camera."
+  - id: "fig-2-13"
+    label: "Figure 2-13"
+    src: figures/fig-2-13_1961-171.jpg
+    caption: "Charles M. Russell (1864-1926), *The Medicine Man*, 1908, oil on canvas, 30 x 48 1/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.171](https://www.cartermuseum.org/collection/medicine-man-1961171)"
+    alt: "An oil painting of a Native American man wearing elaborate clothing and holding a feathered stick in one hand leads a group on horseback through the plains."
+
+  - id: "fig-2-14"
+    label: "Figure 2-14"
+    src: figures/fig-2-14_1961-177.jpg
+    caption: "Charles M. Russell (1864-1926), *War Council*, ca. 1896, transparent and opaque watercolor and graphite on paper, 14 1/4 x 21 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.177](https://www.cartermuseum.org/collection/war-council-1961177)"
+    alt: "A watercolor of a group of Native American figures seated outdoors around a standing man in a feathered headress holding a shield and staff."
+
+  - id: "fig-2-15"
+    label: "Figure 2-15"
+    src: figures/fig-2-15_CMRussell-Buffalo-Horn-Headdress_S991.19.397_Back.jpg
+    caption: "Charles M. Russell (1864-1926), Eagle and buffalo horn war bonnet, n.d., bison horn, eagle feathers, horsehair, beads"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.367"
+    alt: "A yellow scarf-like piece of fabric decorated with swatches of animal hair, bird feathers, and bison horns."
+
+  - id: "fig-2-16"
+    label: "Figure 2-16"
+    src: figures/fig-2-16_1961-152.jpg
+    caption: "Charles M. Russell (1864-1926), *Approach of the White Men*, 1897, transparent and opaque watercolor over graphite underdrawing on paper, 17 3/4 x 23 5/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.152](https://www.cartermuseum.org/collection/approach-white-men-1961152)"
+    alt: "A watercolor of Indigenous people on horseback who are stopped and looking off into the distance."
+
+  - id: "fig-2-17"
+    label: "Figure 2-17"
+    src: figures/fig-2-17_MHS_944-696.jpg
+    caption: "Unknown, C. M. Russell in Native American Regalia, ca. 1905, gelatin silver print"
+    credit: "Charles M. Russell Museum, Great Falls, MT, 975-12-849.3"
+    alt: "A black-and-white photograph of a White man, face painted, wearing a headdress of feathers and bison horns, a beaded necklace, fringed jacket and tunic."
+    
+  - id: "fig-3-1"
+    label: "Figure 3-1"
+    src: figures/fig-3-1_1961-150.jpg
+    caption: "Charles M. Russell (1864-1926), *Sun Worship in Montana*, 1907, opaque and transparent watercolor over graphite underdrawing on paper, 22 3/8 x 17 1/2 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.150](https://www.cartermuseum.org/collection/sun-worship-montana-1961150)"
+    alt: "A watercolor of a Native American woman standing outside of a tipi, holding her baby in a cradleboard up to the sun."
+    
+  - id: "fig-3-2"
+    label: "Figure 3-2"
+    src: figures/fig-3-2_TU2009.39.273.35A-B_o6.jpg
+    caption: "Unknown, Russell working on Painting in Studio, late 19th–early 20th century, gelatin silver print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.273.35a-b](https://collections.gilcrease.org/object/tu20093927335a-b)"
+    alt: "A black-and-white photograph of a White man seated in front of a easel painting on a canvas inside of what looks like a log cabin."
+    
+  - id: "fig-3-3"
+    label: "Figure 3-3"
+    src: figures/fig-3-3_975-12-213_300-Charlie-Josephine.jpg
+    caption: "Unknown, Charles Russell with model, Josephine Wright, ca. 1903, gelatin silver print"
+    credit: "Charles M. Russell Museum, Great Fallas, MT, 975.12.213"
+    alt: "A black-and-white photograph of a White man wearing a cowboy hat seated on what looks like a sofa covered in blankets next to a woman with long dark hair wearing beaded necklaces over a long flowing dress."
+    
+  - id: "fig-3-4"
+    label: "Figure 3-4"
+    src: figures/fig-3-4_TU2009.39.5849A_o6.jpg
+    caption: "Unknown, Charles M. Russell and Friend, late 19th–early 20th century, gelatin silver print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.5849a](https://collections.gilcrease.org/object/tu2009395849a)"
+    alt: "A black-and-white photograph of a woman and man posing outside of a building both dressedin Native American clothing."
+    
+  - id: "fig-3-5"
+    label: "Figure 3-5"
+    src: figures/fig-3-5_TU2009.39.6173_o6.jpg
+    caption: "Unknown, Woman with Baby, late 19th–early 20th century, gelatin silver print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.6173](https://collections.gilcrease.org/object/tu2009396173)"
+    alt: "A black-and-white photograph of a woman, face in shadow, seated on the ground next to a baby in a beaded cradleboard that is leaning on a post."
+    
+  - id: "fig-3-6"
+    label: "Figure 3-6"
+    src: figures/fig-3-6_1961-150_detail.jpg
+    caption: "Charles M. Russell (1864-1926), *Sun Worship in Montana* (detail), 1907, opaque and transparent watercolor over graphite underdrawing on paper, 22 3/8 x 17 1/2 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.150](https://www.cartermuseum.org/collection/sun-worship-montana-1961150)"
+    alt: "A detail of a watercolor showing a Native American woman dressed in traditional clothing decorated with beaded designs and fringe."
+    
+  - id: "fig-3-7"
+    label: "Figure 3-7"
+    src: figures/fig-3-7.jpg
+    caption: "Blackfeet maker, Two-hide Beaded Dress, ca. 1890, brain-tanned leather, sinew, glass and metal beads, pigment, metal"
+    credit: "Charles M. Russell Museum, Great Falls, MT, 991.19.374"
+    alt: "An animal hide dress, fringe along the sleeves, sides, and bottom, a blue and black beaded design along the top with what looks like metal bells hanging beneath the design."
+    
+  - id: "fig-3-8"
+    label: "Figure 3-8"
+    src: figures/Fig-3-8.jpg
+    caption: "Blackfeet maker, Two-hide Beaded Dress (detail), ca. 1890, brain-tanned leather, sinew, glass and metal beads, pigment, metal"
+    credit: "Charles M. Russell Museum, Great Falls, MT, 991.19.374, Photograph by the author"
+    alt: "A detail of the blue and black beaded design on an animal hide garment."
+    
+  - id: "fig-3-9"
+    label: "Figure 3-9"
+    src: figures/fig-3-9_NMAI_132381.jpg
+    caption: "Mrs. Running Rabbit, *Woman’s Dress*, ca. 1860, hide, glass pony beads, glass bead/beads, wool cloth, pigment/pigments, sinew"
+    credit: "National Museum of American Indian, Smithsonian Institution, [13/2381](https://americanindian.si.edu/collections-search/object/NMAI_141587), Photo by NMAI Photo Services"
+    alt: "An animal hide dress, fringe along the sleeves, sides, and bottom, a black and white beaded design along the top with beaded fringe hanging beneath the design."
+    
+  - id: "fig-3-10"
+    label: "Figure 3-10"
+    src: figures/fig-3-10_Met_DP-15102-010.jpg
+    caption: "Ute maker, Cradleboard, ca. 1890, wood, tanned leather, pigment, glass beads, wool cloth, metal cones, feathers, and bone"
+    credit: "The Metropolitan Museum of Art, The Charles and Valerie Diker Collection of Native American Art, Gift of Charles and Valerie Diker, 2019, [2019.456.25](https://www.metmuseum.org/art/collection/search/751509)"
+    alt: "A Native American cradleboard with a beaded design around the edges and an animal hide pouch decorated with beaded designs and fringe."
+    
+  - id: "fig-3-11"
+    label: "Figure 3-11"
+    src: figures/fig-3-11_Foxley.jpg
+    caption: "Charles M. Russell (1864–1926), *Friend Bill* (William G. Krieghoff), May 4, 1914, watercolor and ink on paper"
+    credit: "W.C. Foxley"
+    alt: "A handwritten letter surrounding a drawing of two men gesturing to a colowful painting hanging on a wall."
+    
+  - id: "fig-3-12"
+    label: "Figure 3-12"
+    src: figures/fig-3-12_cradleboard.jpg
+    caption: "Plateau Maker, Cradleboard, ca. 1900, flannel, beads, board, buckskin"
+    credit: "Charles M. Russell Museum, Great Falls, MT, S991.19.366a,b"
+    alt: "A Native American cradleboard, the back heavily beaded with a blue, green, and pink design and a red pouch with a beaded floral design."
+    
+  - id: "fig-3-13"
+    label: "Figure 3-13"
+    src: figures/fig-3-13.jpg
+    caption: "Nancy Josephine Clark (b. 1944), *Choices*, 2023, acrylic, gouache, and pens on canvas, 24 x 36 in."
+    credit: "Collection of the artist"
+    alt: "A painting of a Native American cradleboard with red and green floral designs."
+    
+  - id: "fig-4-1"
+    label: "Figure 4-1"
+    src: figures/fig-4-1_1964-193-18-B.jpg
+    caption: "Charles M. Russell (1864−1926), [Hand studies], ca. 1912, graphite on paper"
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Gift of C.R. Smith, [1964.193.18.B](https://www.cartermuseum.org/collection/hand-studies-196419318b)"
+    alt: "Pencil sketches of three hands in various positions in a ringed sketchbook."
+
+  - id: "fig-4-2"
+    label: "Figure 4-2"
+    src: figures/fig-4-2_1961-171.jpg
+    caption: "Charles M. Russell (1864−1926), *The Medicine Man*, 1908, oil on canvas, 30 x 40 1/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.171](https://www.cartermuseum.org/collection/medicine-man-1961171)"
+    alt: "An oil painting of a Native American man wearing elaborate clothing leading a group on horseback through the plains."
+
+  - id: "fig-4-3"
+    label: "Figure 4-3"
+    src: figures/fig-4-3_1961-135.jpg
+    caption: "Charles M. Russell (1864−1926), *The Silk Robe*, ca. 1890, oil on canvas, 27 5/8 x 39 1/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.135](https://www.cartermuseum.org/collection/silk-robe-1961135)"
+    alt: "An oil painting of Indigenous adults and a child working on a hide in front of an open tipi on grassy plains."
+    
+  - id: "fig-4-4"
+    label: "Figure 4-4"
+    src: figures/fig-4-4_1961-144.jpg
+    caption: "Charles M. Russell (1864−1926), *Lost in a Snowstorm -- We Are Friends*, 1888, oil on canvas, 24 x 43 1/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.144](https://www.cartermuseum.org/collection/lost-snowstorm-we-are-friends-1961144)"
+    alt: "An oil painting of a group of Indigenous people on horseback approaching cowboys on horseback in a snowstorm."
+    
+  - id: "fig-4-5"
+    label: "Figure 4-5"
+    src: figures/fig-4-5_1961-125.jpg
+    caption: "Charles M. Russell (1864−1926), *Indians Meet First Wagon Train West of Mississippi*, ca. 1922, ink and graphite on paper mounted on cardboard, 15 1/4 x 22 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.125](https://www.cartermuseum.org/collection/indians-meet-first-wagon-train-west-mississippi-1961125)"
+    alt: "A black-and-white drawing of a large group of Indigenous people on horseback watching a line of settlers on horseback and in wagons in the distance."
+    
+  - id: "fig-4-6"
+    label: "Figure 4-6"
+    src: figures/fig-4-6_1961-320.jpg
+    caption: "Charles M. Russell (1864−1926), *Bent's Fort on Arkansas River*, ca. 1922, ink and graphite on paper, 14 x 22 1/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.320](https://www.cartermuseum.org/collection/bents-fort-arkansas-river-1961320)"
+    alt: "A black-and-white drawing of a group of people leading their horses along the outside of a fort wall."
+    
+  - id: "fig-4-7"
+    label: "Figure 4-7"
+    src: figures/fig-4-7_1961-151.jpg
+    caption: "Charles M. Russell (1864−1926), *The Wolfer's Camp*, 1906, transparent and opaque watercolor over graphite on paperboard, 14 3/4 x 20 7/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.151](https://www.cartermuseum.org/collection/wolfers-camp-1961151)"
+    alt: "A watercolor of a Native American family greeting a cowboy at a campsite on a snowy day."
+    
+  - id: "fig-4-8"
+    label: "Figure 4-8"
+    src: figures/fig-4-8_1961-136.jpg
+    caption: "Charles M. Russell (1864−1926), *Crow Indians Hunting Elk*, ca. 1890, oil on canvas, 18 1/8 x 24 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.136](https://www.cartermuseum.org/collection/crow-indians-hunting-elk-1961136)"
+    alt: "An oil painting of two Indigenous men holding guns and crouching in the snow behind a fallen tree."
+    
+  - id: "fig-4-9"
+    label: "Figure 4-9"
+    src: figures/fig-4-9_1961-169.jpg
+    caption: "Charles M. Russell (1864−1926), *Indian Scouting Party*, 1900, transparent and opaque watercolor over graphite underdrawing on paper, 28 1/8 x 12 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.169](https://www.cartermuseum.org/collection/indian-scouting-party-1961169)"
+    alt: "A watercolor of Indigenous people riding their horses on a steep cliffside."
+    
+  - id: "fig-4-10"
+    label: "Figure 4-10"
+    src: figures/fig-4-10_1961-154.jpg
+    caption: "Charles M. Russell (1864−1926), *Crees Meeting Traders*, ca. 1896, watercolor, opaque watercolor, and graphite on paper, 16 1/4 x 23 5/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.154](https://www.cartermuseum.org/collection/crees-meeting-traders-1961154)"
+    alt: "A watercolor of four Native American figures on horseback looking toward riders in the distance."
+    
+  - id: "fig-4-11"
+    label: "Figure 4-11"
+    src: figures/fig-4-11_1961-195.jpg
+    caption: "Charles M. Russell (1864−1926), *Lewis and Clark on the Lower Columbia*, 1905, opaque and transparent watercolor over graphite underdrawing on paper, 18 3/4 x 23 7/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.195](https://www.cartermuseum.org/collection/lewis-and-clark-lower-columbia-1961195)"
+    alt: "A watercolor of American Indians and explorers in wood canoes meeting on a calm river."
+    
+  - id: "fig-5-1"
+    label: "Figure 5-1"
+    src: figures/fig-5-1_P1979-66.jpg
+    caption: "Unknown, *Charles M. Russell in His Studio Painting His Famous Picture “The Buffaloes” [“When the Land Belonged to God”]*, ca. 1914, 9 ½ x 12 3/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, [P1979.66](https://www.cartermuseum.org/collection/charles-m-russell-his-studio-painting-his-famous-picture-buffaloes-when-land-belonged)"
+    alt: "A sepia-toned photograph of a White man posing next to a large canvas that depicts a herd of bison."
+    
+  - id: "fig-5-2"
+    label: "Figure 5-2"
+    src: figures/fig-5-2_1961-201.jpg
+    caption: "Charles M. Russell (1864−1926), *In Without Knocking*, 1909, oil on canvas, 20 1/8 x 29 7/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.201](https://www.cartermuseum.org/collection/without-knocking-1961201)"
+    alt: "An oil painting of cowboys on horseback firing guns as they bust into a hotel; playing cards, liquor bottles, and dust scatter the dirt road."
+    
+  - id: "fig-5-3"
+    label: "Figure 5-3"
+    src: figures/fig-5-3_1961-196.jpg
+    caption: "Charles M. Russell (1864−1926), *A Tight Dally and a Loose Latigo*, 1920, oil on canvas, 30 1/4 x 48 1/4 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.196](https://www.cartermuseum.org/collection/tight-dally-and-loose-latigo-1961196)"
+    alt: "An oil painting of cowboys on horseback roping a group of cattle in a ravine."
+    
+  - id: "fig-5-4"
+    label: "Figure 5-4"
+    src: figures/fig-5-4_1961-146.jpg
+    caption: "Charles M. Russell (1864−1926), *Buffalo Hunt [No. 39]*, 1919, oil on canvas, 30 1/8 x 48 1/8 in."
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.146](https://www.cartermuseum.org/collection/buffalo-hunt-no-39-1961146)"
+    alt: "A dynamic oil painting of Native American men on horseback hunting a heard of bison."
+    
+  - id: "fig-5-5"
+    label: "Figure 5-5"
+    src: figures/fig-5-5_X1977-01-01.jpg
+    caption: "Charles M. Russell (1864-1926), *When the Land Belonged to God*, 1914, oil on canvas, 42 ½ x 72 in."
+    credit: "Montana Historical Society Collection, [x1977.01.01](https://mthsmuseum.catalogaccess.com/objects/4222)"
+    alt: "An oil painting of a herd of bison clustered at the top of a hill over a river valley; a coyote or wolf lurks in the foreground."
+    
+  - id: "fig-5-6"
+    label: "Figure 5-6"
+    src: figures/fig-5-6_TU2009.39.5938A_o6.jpg
+    caption: "Unknown, Jack Russell, late 19th–early 20th century, gelatin silver print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.5938a-b](https://collections.gilcrease.org/object/tu2009395938a-b)"
+    alt: "A black-and-white photograph of a young White man stepping from a small boat onto a dock where a small dog waits."
+    
+  - id: "fig-5-7"
+    label: "Figure 5-7"
+    src: figures/fig-5-7_TU2009.39.6355_o6.jpg
+    caption: "Unknown, Small Dog, late 19th–early 20th century, gelatin silver print"
+    credit: "Gilcrease Museum, Tulsa, Oklahoma, [TU2009.39.6355](https://collections.gilcrease.org/object/tu2009396355)"
+    alt: "A black-and-white photograph of a small black dog sitting on a stone path."
+    
+  - id: "fig-5-8"
+    label: "Figure 5-8"
+    src: figures/fig-5-8_1961-309-1.jpg
+    caption: "Charles M. Russell (1864−1926), *Friend Sid [Sid A. Willis], May 3, 1907*, ink, transparent watercolor, and graphite on paper"
+    credit: "Amon Carter Museum of American Art, Fort Worth, Texas, Amon G. Carter Collection, [1961.309.1](https://www.cartermuseum.org/collection/friend-sid-sid-willis-may-3-1907-19613091)"
+    alt: "A handwritten letter next to a watercolor sketch of two White men, both in top hats and jackets, standing at a bar drinking."
+    
+  - id: "fig-5-9"
+    label: "Figure 5-9"
+    src: figures/fig-5-9_letter.jpg
+    caption: "Charles M. Russell (1864−1926), *I Am Still Here in the Smoke of the Tall Teepees*, 1903, watercolor"
+    credit: "Montana Historical Society Collection, [1986.06.10 a-d](https://mthsmuseum.catalogaccess.com/objects/10093)"
+    alt: "TBD"
+    
+  - id: "illus-1a"
+    label: "Illustration 1a"
+    src: illustrations/Illus-1_Intro-1-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "A comic titled: Charlie & Rawhide in 'A Roundup'; panels 1 & 2: A White man, Charlie, paints bison on a canvas; panel 3: Charlie says 'Izzat you mame?' as a shadowy figure appears behing him; panel 4: Startled, Charlie turns and says 'You ... you can't be here!'; panel 5: A close-up of a White man with a mustache, wearing a hat, and lighting a cigarette who says 'That so?'; panel 6: Charlie stands, knocking over his chair and dropping his paintbrush and says 'But ...'; panel 7: Charlie reaches toward the stranger and says 'Yer not real ...'; panel 8: Charlie looks at a shelf of art supplies and books and says 'Yer ...'; panel 9: A close-uup of Charlie's face and a book he holds as he says 'Just a story ...'"
+    
+  - id: "illus-1b"
+    label: "Illustration 1b"
+    src: illustrations/Illus-1_Intro-2-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "Part 2 of a comic titled 'A Roundup'; panel 1: An open book showing a page titled 'Rawhide Rawlins Stories'; panel 2: Charlie shows his visitor the page from the book and says 'I made you up!'; panel 3: The stranger, Rawhide, says 'Guess I'll fit right in then'; panel 4: A close-up of Charlie pointing and saying 'Now listen here you, you specter'; panel 5: Rawhide puts an arm around Charlie and says 'Aw Russ! Izzat any way ta talk to an old trail pal?'; panel 6: The two men are viewed from the back, Rawhide's arm still around Charlie as he points with his other hand at the artwork on the walls and says 'You done good here Russ'; panels 7, 8, 9: Close-up of details of paintings and the text 'The Cowboy Painter'; panel 10: Rawhide puts a hand on Charlie's shoulder and says 'But yer hand is almost played out'; panel 11: The two men look at the painting Charlie was working on and Rawhide says 'We oughta talk about what yer leavin behind.'"
+    
+  - id: "illus-2a"
+    label: "Illustration 2a"
+    src: illustrations/Illus-4_Collection-1-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "A comic titled: Charlie & Rawhide in 'The Collector'; a single panel shows Chralie's studio as viewed from above; besides his artwork, it shows shelves and tables full of Native American artifacts; Rawhide says 'Quite a collection. But ... Where'd you get all this stuff?' Charlie says 'Here and there. Gifts some of them. Helps me set the stage, make the pictures authentic.'"
+    
+  - id: "illus-2b"
+    label: "Illustration 2b"
+    src: illustrations/Illus-4_Collection-2-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "Part 2 of a comic titled 'The Collector'; panel 1: Rawhide holds a feathered headdress in his hands and says 'But some of this stuff ...'; panel 2: A black-and-white illustration of a Native American man wearing the headdress; panel 3: A close-up of Rawhide who says 'It don't seem like *authentic* was really the idea.'; panel 4: Charlie seated in front of his in-progress canvas says 'Well so what? It's a good story!'; panel 5: A close-up of Charlie painting on his canvas as he says 'I'm givin folks a taste a the old west.'; panel 6: Rawhide leans in to get a better look at one of the paintings and says 'They do have a real air about em.'; panel 7: Rawhide points to some decorative Native American artifacts hanging on a wall and says 'But you got some real meaningful stuff here, Russ.'; panel 8: A close-up of a floral design on one of the artifacts as Rawhide says 'These ain't props, they're art!'; panel 9: Rawhide standing alone says 'Folks got you bein some kinda historian'; panel 10: Charlie paints on his canvas as the silhouette of Rawhide in the background says 'But I'm not sure you even know the story you're tellin.'"
+    
+  - id: "illus-3a"
+    label: "Illustration 3a"
+    src: illustrations/Illus-5_Sun-Worship-1-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "A comic titled: Charlie & Rawhide in 'Passing Through'; panel 1: Looking at a Native American dress hanging on a wall, Rawhide says 'There's more to these objects than you can see, Russ.'; panel 2: A close-up of Rawhide's face as he says 'This ain't just a trinket you buy.'; panel 3: A closer view of the Native American dress; panel 4: Looking distressed, Charlie says 'I ... I know that!'; panel 5: Rawhide, looking more closely at the dress, says 'You don't know nothin.'; panel 6: A pair of beaded Native American gloves beneath Rawhide's words 'The women who made these put everything in 'em ...'; panel 7: A beaded pouch is featured as Rawhide continues 'Their feelings, their knowledge, the Mokakssini of the Blackfeet.'; panel 8: The beaded dress appears to float among stars above the words 'It is community.'"
+    
+  - id: "illus-3b"
+    label: "Illustration 3b"
+    src: illustrations/Illus-5_Sun-Worship-2-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "Part 2 of a comic titled 'Passing Through'; panel 1: Many Native American dresses in a row appear with the words 'That knowledge, that story is in the dress - and others like it.'; panel 2: A close-up of the face of a Native American woman beneath the words 'Maybe when your friend Josie posed for you ...'; panel 3: Sun rays shining through clouds on an Indigenous person walking on an arch with text that reads 'It was more than a costume. It was a belonging.'; panel 4: A Native American woman holds a baby in a cradleboard up to the sun with text that reads 'Together they form a link to the future that remained connected to the knowledge of the Blackfeet people.'; panel 5: Rawhide, gesturing toward one of Charlie's paintings, says 'You thought you would use that dress ta make your old story feel real'; panel 6: Silhouettes of Charlie and Rawhide over the beaded design from the dress with Rawhide's words 'But you and your paintings are part of its story now.'"
+    
+  - id: "illus-4a"
+    label: "Illustration 4a"
+    src: illustrations/Illus-6_Hand-Talk-1-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "A comic titled: Charlie & Rawhide in 'Hand Talk'; panel 1: Charlie stands behind Rawhide, hands on hips and a black cloud above his head as Rawhide says 'You made it Russ! Yer at the top a yer game.'; panel 2: A close-up of Charlie's face as he says 'Well, folks like seeing old times, that's all.'; panel 3: Rawhide, standing behind Charlie, says 'Don't ya worry about givin em the wrong idea?'; panel 4: Taking a closer look at one of Charlie's paintings, Rawhide says 'This ain't what really happened.'; panel 5: An angry Charlie grabs Rawhide by the lapels and says 'You know I was out there! I seen things for myself!'; panel 6: Rawhide puts an arm around Charlie and says 'Oh Russ, it ain't always about you.'; panel 7: With his arm still around Charlie, Rawhide gestures toward some of the paintings hanging on the wall and says 'Come on, let's look at some pictures.'; panel 8: Charlie and Rawhide are suddenly on a canoe in a river and Rawhide says 'You do all right, but no *puncher* ever saw this.'"
+    
+  - id: "illus-4b"
+    label: "Illustration 4b"
+    src: illustrations/Illus-6_Hand-Talk-2-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "Part 2 of a comic titled 'Hand Talk'; panel 1: A recreation of Charlie's *Lewis and Clark on the Lower Columbia* fills a large panel with Rawhide's words at the top 'Pay attention Russ! This is your big scene! Now, what's she sayin?' An inset of Charlie's face says 'I don't know!'; panel 2: Back to Charlie and Rawhide in their canoe, Rawhide says 'Huh?' as Charlie says 'Well, paintings don't move. Anyway, I only know a little.'; panel 3: A Native American woman gesturing with her hands, text reads 'She's saying APPROACH'; panel 4: Showing two sets of hands, each performing different gestures with text that reads 'But it could be APPROACH ... PEACEFULLY (war not)'; panel 5: A pair of hands clasp each other with text that reads 'Or APPROACH in friendship'; panel 6: A silhouette of Rawhide and Charlie in their canoe looking at the other boats as Rawhide says 'You really haveta be there, huh?' panel 7: Charlie looks at Rawhide and says 'It's how folks talk - can't put that in a painting!'"
+    
+  - id: "illus-5a"
+    label: "Illustration 5a"
+    src: illustrations/Illus-7_Animals-Autos-1-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "A comic titled: Charlie & Rawhide in 'A Kept Man'; panel 1: Two men on horseback are in silhouette at the top of a green hill and the lead rider says 'This is the life Rawhide! Out here with a horse between yer legs you can feel the wild rhythm of nature.'; panel 2: Charlie on his horse is saying 'Yessir, me an Monte, we useta ...' when a loud honk invades their serenity; panel 3: A close-up of Charlie saying 'What the ...' as Rawhide watches from the background; panel 4: At the bottom of the hill, an old-time black automobile honks, rattles, and clangs noisily down a dirt road as Charlie exclaims 'Is ... izzat ...'; panel 5: A close-up of the car from the front shows a woman driving as Charlie says 'Mame! And Jack! And ...'; panel 6: A close-up of Charlie's face saying 'And ... I bin replaced!'; panel 7: A close-up of a teenage boy in the backseat of the car holding a dog on his lap as Charlie says 'By a mutt!'; panel 8: Rawhide and Charlie on horseback as Rawhide says 'It's a cocker spaniel, matterafact.'"
+    
+  - id: "illus-5b"
+    label: "Illustration 5b"
+    src: illustrations/Illus-7_Animals-Autos-2-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "Part 2 of a comic titled 'A Kept Man'; panel 1: An aerial view of two men on horseback, both in silhouette, on a green hillside. One says 'Nancy earned it though, didn't she?' and the other responds 'Course she did! Twice over!'; panel 2: Still on horseback and with smokestacks in the background, Charlie says to Rawhide 'I want Mame to have nice things' ; panel 3: An aerial view of the two men riding past a telephone pole with Charlie saying 'I just prefer simple, natural!'; panel 4: As they ride through a town, Charlie continues 'How it used ta be.'; panel 5: As their silhouettes ride through a town, Rawhide says 'Russ, ain't it all two sides a the same coin?'; panel 6: A close-up of them riding next to each other as Rawhide continues 'You can't live like that anymore. You need all this just as much as Nancy.' panel 7: As an automobile passes them on a road, Charlie says 'You oughta know better, Rawhide.' panel 8: As they hitch their horses to the railing outside of Charlie's studio, Charlie says 'Men are meant ta sleep under the big roof!'; panel 9: Inside his studio, Charlie gestures toward his artwork and says 'That's what these pictures are about!'; panel 10: As Charlie sits at his canvas to paint, he says 'Livin free ...'"
+    
+  - id: "illus-6a"
+    label: "Illustration 6a"
+    src: illustrations/Illus-8_Outro-1-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "A comic titled: Charlie & Rawhide in 'The Writing on the Wall'; panel 1: A detail of a painting of two cowboys on horseback, one trying desperately to stay on his horse; panel 2: A view of the full painting in its gold frame hanging on a wall; panel 3: A low view of a gallery wall showing the corners of several paintings in their frames with a text bubble that reads 'Times change'; panel 4: A woman and a child look at a cowboy painting in a gallery; panel 5: A group of children seated on the floor of a gallery in front of a painting that an educator is pointing to; panel 6: A close-up of a cowboy on horseback in a painting with a text bubble that reads 'And yet here we are'; panel 7: A bronze sculpture of a seated Native American man with a text bubble that reads 'The story can't stay the same ...'; panel 8: A gallery attendant dressed in black stand next to a painting and coughs into his hand; panel 9: A close-up of the face of the sculpture of the Native American man with a text bubble that reads '... can it?'"
+    
+  - id: "illus-6b"
+    label: "Illustration 6b"
+    src: illustrations/Illus-8_Outro-2-final-RGB_400.jpg
+    caption: 
+    credit: 
+    alt: "Part 2 of a comic titled 'The Writing on the Wall'; panel 1: A close-up of the face of the woman in Mary Cassatt's *Woman Standing, Holding a Fan*; panel 2: The sculpture of *Diana* by Augustus Saint-Gaudens in its niche at the Carter with a text bubble that reads 'Will we listen to different ideas?'; panel 3: A detail of Stuart Davis' painting *Blips and Ifs*; panel 4: A corner of Gabriel Dawe's *Plexus No. 34* as seen from a Carter gallery with a text bubble that reads 'Move through new spaces?'; panel 5: Charlie's painting *The Medicine Man* with a text bubble that reads 'Who will tell the story in another 50 years?'; panel 6: A detail of one of the figures from *The Medicine Man*; panel 7: Another detail of figures from *The Medicine Man* with a text bubble that reads 'And what will it say?'; panel 8: A view of the Carter's main gallery with James Surls' *Seven and Seven Flower* in the distance; panel 9: The walk leading up to the front of the Amon Carter Museum of American Art."
