@@ -27,7 +27,7 @@ John Allen Chalk
 Michael Conforti
 Glenn K. Davidson
 Walker C. Friedman
-Karen J. Hixon, President
+Karen J. Hixon, *President*
 Christina R. Johnson
 Mark L. Johnson, *Vice President*
 J. Bryan King
@@ -44,3 +44,5 @@ Will Gillham / *Editor and Publisher*
 Paul Leicht / *Photographer*
 Michelle Padilla / *Digital Content Strategist*
 Steve Watson / *Imaging and Digital Assets Manager*
+
+Designed by Anjali Pala

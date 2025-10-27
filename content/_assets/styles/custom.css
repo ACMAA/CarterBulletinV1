@@ -1,0 +1,16 @@
+.quire-cover .hero-body .container.is-fluid {
+    background: #A43C31;
+    opacity: 0.75;
+}
+
+.quire-splash.carterred-background .quire-page__header {
+  align-items: center;
+}
+
+.quire-splash.carterred-background .quire-page__header .hero-body {
+  background-color: rgb(164, 60, 49, 0.75);
+  padding-bottom: 1.5rem;
+  padding-left: .5rem;
+  padding-right: .5rem;
+  flex-grow: initial;
+}

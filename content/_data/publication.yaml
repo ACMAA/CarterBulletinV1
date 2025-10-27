@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+url: 'https://netlify.app'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -26,7 +26,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2025-12-01 # YYYY-MM-DD
+pub_date: 2025-11-01 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -69,7 +69,7 @@ contributor:
     type: primary
     first_name: Emily C.
     last_name: Burns
-    title: Director of the Charles M. Russell Center for the Study of Art of the American West
+    title: Charles Marion Russell Memorial Chair, Associate Professor of Art History, and Director, Charles M. Russell Center for the Study of Art of the American West
     affiliation: University of Oklahoma
     bio: "Dr. Emily C. Burns is Director of the Charles M. Russell Center for the Study of Art of the American West at the University of Oklahoma, which supports the pursuit and dissemination of knowledge about the art of the western United States. She earned a BA from Union College, an MA from George Washington University, and a PhD in art history and archaeology from Washington University in St. Louis. She is author of numerous publications, including *Transnational Frontiers: The American West in France* (2018), and is a co-editor of *The Routledge Companion to Art and the Formation of Empire* (2025) and *The Routledge Companion to Art and Challenges to Empire* (2025)."
     url: https://www.ou.edu/finearts/visual-arts/people/faculty-and-staff/emily-burns
@@ -89,7 +89,7 @@ contributor:
     type: primary
     first_name:  Michael D.
     last_name: Wise
-    title: Associate Professor of History
+    title: Professor of History
     affiliation: University of North Texas
     bio: "Dr. Michael Wise is Professor of History at the University of North Texas and an environmental historian of the North American West. He studied history at Whitman College in Walla Walla, WA, and Montana State University in Bozeman before earning his PhD from the University of Minnesota in Minneapolis. He is the author of *Producing Predators: Wolves, Work, and Conquest in the Northern Rockies* (2016) as well as many articles and essays on food, agriculture, and animal-human relationships."
     url: https://history.unt.edu/people/michael-wise.html
@@ -147,10 +147,16 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
+    name: ART / American / General
+    identifer: ART015020
+  - type: getty
+    name: "Western United States"
+    identifer: 4011500
+  - type: getty
+    name: "Charles M. Russell"
+    identifer: 500009086
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: Charles M. Russell, American Indians, Native Americans, Native sign language, American West
 
 # ------------------------------------------------------------------------------
 # Revision History
