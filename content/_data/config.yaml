@@ -62,7 +62,7 @@ pdf:
       - footer: true
         label: 'Download this page'
     coverPage: true
-    output: false
+    output: true
   publicationPDF:
     output: true
 
