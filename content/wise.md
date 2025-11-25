@@ -2,12 +2,14 @@
 label: IV
 title: "Autos and Animals"
 subtitle: "Mobility and Muscle in the Life and Work of Charles M. Russell"
+short_title: Autos and Animals
 layout: essay
 order: 50
 classes:
   - page-one
 contributor:
   - id: mdwise
+page_pdf_output: true
 ---
 
 Among the things that Charles Russell hated, cars were near the top of the list. Trains, too. Anything not powered by muscle roused his ire, which he freely expressed in correspondence with family and friends, and only a bit guardedly in public forums. In an interview with the *New York Times*, he fumed, “If I had my way I’d put steam out of business,” unaware that in a scant few years steam would, in fact, be supplanted by something he disliked more—the gasoline engine.[^1] Many ironies accompanied his torment, of course. His career relied on the seamless transitions provided by a modern rail network to transport him and his work to exhibitions around the country. He steamed across the Atlantic on the *Lusitania* a year before its sinking, and the luxury cars that his wife, Nancy, owned carried the family between their homes in Great Falls and Lake McDonald and, eventually, the beaches, orange groves, and film lots of Southern California, where they resettled a year before Russell’s passing.

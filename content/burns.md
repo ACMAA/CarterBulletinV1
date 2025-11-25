@@ -2,12 +2,14 @@
 label: II
 title: "Charles M. Russell's <em>Sun Worship in Montana</em>"
 subtitle: "Painting Blackfeet People, Artistry, and <em>Mokakssini</em>"
+short_title: "Russell's <em>Sun Worship in Montana</em>"
 layout: essay
 order: 30
 classes:
   - page-one
 contributor:
   - id: ecburns
+page_pdf_output: true
 ---
 
 In 1907, Charles M. Russell painted the watercolor *Sun Worship in Montana* [(fig. 3.1)](#fig-3-1) to be reproduced on the cover of *Leslie’s Illustrated Weekly* popular magazine, where it was titled “A Blackfeet Indian Mother Holding Up Her Babe to Be Blessed by the Rising Sun.” No other description appears in the magazine, but Russell’s detailed style in the painting heightens visual attention on Native American belongings placed throughout the work—a tipi with a medicine bundle over the door; the figure’s dress, moccasins, knife sheath, and belt—even as he loosely painted the surrounding landscape and the glowing, colorful light emanating from inside the tipi.
@@ -127,7 +129,7 @@ Thanks to Spencer Wigmore and Will Gillham for editorial feedback and discussion
 
 [^17]: Nancy Josephine Clark, correspondence with the author, April 6, 2025.
 
-[^18]: Emil Her Many Horses, “Portraits of Native Women and Their Dresses,” in *Identity by Design: Tradition, Change, and Celebration in Native Women’s Dresses* (Washington, D.C.: Smithsonian Institution Press, 2007), 79.
+[^18]: Emil Her Many Horses, ed., “Portraits of Native Women and Their Dresses,” in *Identity by Design: Tradition, Change, and Celebration in Native Women’s Dresses* (Washington, D.C.: Smithsonian Institution Press, 2007), 79.
 
 [^19]: Tovías, *Colonialism on the Prairies*, 17, 73–¬74; Weasel Traveller, “A Shining Trail,” 94. See also Rebecca Many Grey Horses, “[Blackfoot Women: Keepers of the Ways and Pillars of the Nation](https://www.youtube.com/watch?v=rNynWfPr5I8),” lecture, Galt Museum & Archives, June 22, 2020, accessed June 13, 2025; and Jessa Rae Growing Thunder, “Hi-Line Treasures: Bold Colors and Geometric Designs Exemplify Beadwork from Montana’s Northern Plains,” *Native American Art Magazine* 38 (April/May 2022): 92–97.
 

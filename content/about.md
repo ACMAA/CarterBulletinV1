@@ -8,6 +8,8 @@ outputs:
 
 **The *Carter Bulletin* advances the Amon Carter Museum of American Art’s commitment to knowledge creation through scholarly research on topics drawn from the Museum’s collection, archives, and programs.**
 
+*\* With permission, figure captions for objects from the Gilcrease Museum and the C. M. Russell Museum have been updated for this publication. The object databases for these two museums may not reflect these updates.*
+
 The Amon Carter Museum of American Art was established through the generosity of Amon G. Carter Sr. (1879–1955) to house his collection of paintings and sculpture by Frederic Remington and Charles M. Russell; to collect, preserve, and exhibit the finest examples of American art; and to serve all communities through exhibitions, publications, and experiences devoted to the celebration of American creativity.
 
 This inaugural volume of the *Carter Bulletin* benefits from the support of the Gentling Study Center.
@@ -44,5 +46,3 @@ Will Gillham / *Editor and Publisher*
 Paul Leicht / *Photographer*
 Michelle Padilla / *Digital Content Strategist*
 Steve Watson / *Imaging and Digital Assets Manager*
-
-Designed by Anjali Pala

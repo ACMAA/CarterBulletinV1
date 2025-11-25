@@ -1,12 +1,14 @@
 ---
 label: III
 title: The Inclusive Work of Charles M. Russell and Hand Talk
+short_title: Russell and Hand Talk
 layout: essay
 order: 40
 classes:
   - page-one
 contributor:
   - id: mmckaycody
+page_pdf_output: true
 ---
 
 Early in his career as an artist, Charles Russell visited the A’aninin elder Horse Capture at the Fort Belknap Reservation. According to Horse Capture’s great-grandson George P. Horse Capture Sr., Russell “would visit in the hot summer and they would sit together on the northern side of the house where it is coolest, and sign-talk with each other. Russell was quite good at sign-talking. They would spend hours there smoking, talking, laughing and telling old stories.”[^1] Horse Capture Sr. also recounted a story about another Gros Ventre elder, Ice, known as Bill Jones Son of a Bitch. It was common knowledge in the area that Russell frequented Gros Ventre and Blackfeet country. One day when Russell was riding on the reservation, it began to rain, so he stopped at a lodge, announcing himself at the door. Bill, the owner of the lodge, welcomed Russell in, and the two men greeted one another. Russell had brought with him a box of art supplies and started painting to pass the time during the rain. He created a portrait of Bill, and once he’d finished it, Bill examined the painting. He signed to Russell about his braided hair on the left side in the painting, where Russell had depicted only three beads. Bill then signed and showed Russell that his braided hair actually had five beads on the left side. Russell fixed the painting and gifted it to the elder. When the rain stopped, Russell mounted his horse and departed. A year later, when Russell came to visit again, Bill presented the artist with a gift to show his gratitude.[^2]

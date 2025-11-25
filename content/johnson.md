@@ -1,12 +1,14 @@
 ---
 label: I
 title: Cultural Intersections in Charles M. Russell's Studio Collection
+short_title: Cultural Intersecions
 layout: essay
 order: 20
 classes:
   - page-one
 contributor:
   - id: akjohnson
+page_pdf_output: true
 ---
 
 Over the past decade, curators and historians of American art have begun to turn their attention to the rich history of Indigenous artistic production. As the field continues in this vital new direction, it is essential to highlight the contemporaneous works of both Native and non-Native creators. Toward this end, the collections of Indigenous art owned by such well-known painters as Karl Bodmer, George Catlin, Benjamin West, and N. C. Wyeth can provide invaluable starting points for deeper investigation, illumining previously unexamined signs of cross-cultural exchange.[^1] Such artists’ depictions of Indigenous subjects invite a critique often centered on representational accuracy that, while significant, oversimplifies the inherent tensions of the artist’s role as a participant in cultural exchange.

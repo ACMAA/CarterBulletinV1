@@ -9,7 +9,7 @@ accordion:
     expandText: Expand All
 
 analytics:
-  googleId: ''
+  googleId: 'G-3SPS11J0Q8'
 
 bylineFormat: name-title # name | name-title | false
 
@@ -53,7 +53,7 @@ pageTitle:
   labelDivider: '. '
 
 pdf:
-  filename: 'publication'
+  filename: 'carterbulletinv1'
   outputDir: '/_assets/downloads' 
   pagePDF:
     accessLinks:
@@ -61,10 +61,10 @@ pdf:
         label: 'PDF'
       - footer: true
         label: 'Download this page'
-    coverPage: true
-    output: true
+    coverPage: false
+    output: false
   publicationPDF:
-    output: true
+    output: false
 
 ref:
   sequenceTransition: 30

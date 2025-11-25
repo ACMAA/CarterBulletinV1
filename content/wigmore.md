@@ -1,9 +1,11 @@
 ---
 title: "Charles M. Russell: New Perspectives"
+short_title: New Perspectives
 layout: splash
 order: 10
 contributor:
   - id: swigmore
+page_pdf_output: true
 image: figures/fig-1-4_TU2009.39.262.jpg
 classes:
   - carterred-background
