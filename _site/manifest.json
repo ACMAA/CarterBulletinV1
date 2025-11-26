@@ -1,0 +1,490 @@
+{
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.eot": {
+    "file": "_assets/ibmplexsanscondensed-bold.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff": {
+    "file": "_assets/ibmplexsanscondensed-bold.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff2": {
+    "file": "_assets/ibmplexsanscondensed-bold.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bold.woff2"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.eot": {
+    "file": "_assets/ibmplexsanscondensed-bolditalic.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff": {
+    "file": "_assets/ibmplexsanscondensed-bolditalic.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff2": {
+    "file": "_assets/ibmplexsanscondensed-bolditalic.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-bolditalic.woff2"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.eot": {
+    "file": "_assets/ibmplexsanscondensed-italic.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff": {
+    "file": "_assets/ibmplexsanscondensed-italic.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff2": {
+    "file": "_assets/ibmplexsanscondensed-italic.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-italic.woff2"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.eot": {
+    "file": "_assets/ibmplexsanscondensed-regular.eot",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.eot"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff": {
+    "file": "_assets/ibmplexsanscondensed-regular.woff",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff"
+  },
+  "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff2": {
+    "file": "_assets/ibmplexsanscondensed-regular.woff2",
+    "src": "_assets/fonts/ibm-plex-sans-condensed/ibmplexsanscondensed-regular.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-bold.eot": {
+    "file": "_assets/notosans-bold.eot",
+    "src": "_assets/fonts/noto-sans/notosans-bold.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-bold.woff": {
+    "file": "_assets/notosans-bold.woff",
+    "src": "_assets/fonts/noto-sans/notosans-bold.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-bold.woff2": {
+    "file": "_assets/notosans-bold.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-bold.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-bolditalic.eot": {
+    "file": "_assets/notosans-bolditalic.eot",
+    "src": "_assets/fonts/noto-sans/notosans-bolditalic.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-bolditalic.woff": {
+    "file": "_assets/notosans-bolditalic.woff",
+    "src": "_assets/fonts/noto-sans/notosans-bolditalic.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-bolditalic.woff2": {
+    "file": "_assets/notosans-bolditalic.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-bolditalic.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-italic.eot": {
+    "file": "_assets/notosans-italic.eot",
+    "src": "_assets/fonts/noto-sans/notosans-italic.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-italic.woff": {
+    "file": "_assets/notosans-italic.woff",
+    "src": "_assets/fonts/noto-sans/notosans-italic.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-italic.woff2": {
+    "file": "_assets/notosans-italic.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-italic.woff2"
+  },
+  "_assets/fonts/noto-sans/notosans-regular.eot": {
+    "file": "_assets/notosans-regular.eot",
+    "src": "_assets/fonts/noto-sans/notosans-regular.eot"
+  },
+  "_assets/fonts/noto-sans/notosans-regular.woff": {
+    "file": "_assets/notosans-regular.woff",
+    "src": "_assets/fonts/noto-sans/notosans-regular.woff"
+  },
+  "_assets/fonts/noto-sans/notosans-regular.woff2": {
+    "file": "_assets/notosans-regular.woff2",
+    "src": "_assets/fonts/noto-sans/notosans-regular.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-bold.eot": {
+    "file": "_assets/notoserif-bold.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-bold.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-bold.woff": {
+    "file": "_assets/notoserif-bold.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-bold.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-bold.woff2": {
+    "file": "_assets/notoserif-bold.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-bold.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-bolditalic.eot": {
+    "file": "_assets/notoserif-bolditalic.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-bolditalic.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-bolditalic.woff": {
+    "file": "_assets/notoserif-bolditalic.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-bolditalic.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-bolditalic.woff2": {
+    "file": "_assets/notoserif-bolditalic.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-bolditalic.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-italic.eot": {
+    "file": "_assets/notoserif-italic.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-italic.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-italic.woff": {
+    "file": "_assets/notoserif-italic.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-italic.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-italic.woff2": {
+    "file": "_assets/notoserif-italic.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-italic.woff2"
+  },
+  "_assets/fonts/noto-serif/notoserif-regular.eot": {
+    "file": "_assets/notoserif-regular.eot",
+    "src": "_assets/fonts/noto-serif/notoserif-regular.eot"
+  },
+  "_assets/fonts/noto-serif/notoserif-regular.woff": {
+    "file": "_assets/notoserif-regular.woff",
+    "src": "_assets/fonts/noto-serif/notoserif-regular.woff"
+  },
+  "_assets/fonts/noto-serif/notoserif-regular.woff2": {
+    "file": "_assets/notoserif-regular.woff2",
+    "src": "_assets/fonts/noto-serif/notoserif-regular.woff2"
+  },
+  "_assets/images/carter_logo_BLUE.png": {
+    "file": "_assets/carter_logo_BLUE.png",
+    "src": "_assets/images/carter_logo_BLUE.png"
+  },
+  "_assets/images/contributors/burns_emily_c.jpg": {
+    "file": "_assets/burns_emily_c.jpg",
+    "src": "_assets/images/contributors/burns_emily_c.jpg"
+  },
+  "_assets/images/contributors/johnson_annika_k.jpg": {
+    "file": "_assets/johnson_annika_k.jpg",
+    "src": "_assets/images/contributors/johnson_annika_k.jpg"
+  },
+  "_assets/images/contributors/mckay-cody_melanie.jpg": {
+    "file": "_assets/mckay-cody_melanie.jpg",
+    "src": "_assets/images/contributors/mckay-cody_melanie.jpg"
+  },
+  "_assets/images/contributors/sampson_ian.jpg": {
+    "file": "_assets/sampson_ian.jpg",
+    "src": "_assets/images/contributors/sampson_ian.jpg"
+  },
+  "_assets/images/contributors/wigmore_spencer.jpg": {
+    "file": "_assets/wigmore_spencer.jpg",
+    "src": "_assets/images/contributors/wigmore_spencer.jpg"
+  },
+  "_assets/images/contributors/wise_michael_d.jpg": {
+    "file": "_assets/wise_michael_d.jpg",
+    "src": "_assets/images/contributors/wise_michael_d.jpg"
+  },
+  "_assets/images/fig-4-11_1961-195.jpg": {
+    "file": "_assets/fig-4-11_1961-195.jpg",
+    "src": "_assets/images/figures/fig-4-11_1961-195.jpg"
+  },
+  "_assets/images/figures/Fig-3-8.jpg": {
+    "file": "_assets/Fig-3-8.jpg",
+    "src": "_assets/images/figures/Fig-3-8.jpg"
+  },
+  "_assets/images/figures/fig-1-1_TU2009.39.256.jpg": {
+    "file": "_assets/fig-1-1_TU2009.39.256.jpg",
+    "src": "_assets/images/figures/fig-1-1_TU2009.39.256.jpg"
+  },
+  "_assets/images/figures/fig-1-2_TU2009.39.7651.jpg": {
+    "file": "_assets/fig-1-2_TU2009.39.7651.jpg",
+    "src": "_assets/images/figures/fig-1-2_TU2009.39.7651.jpg"
+  },
+  "_assets/images/figures/fig-1-3_TU2009.39.jpg": {
+    "file": "_assets/fig-1-3_TU2009.39.jpg",
+    "src": "_assets/images/figures/fig-1-3_TU2009.39.jpg"
+  },
+  "_assets/images/figures/fig-1-4_TU2009.39.262.jpg": {
+    "file": "_assets/fig-1-4_TU2009.39.262.jpg",
+    "src": "_assets/images/figures/fig-1-4_TU2009.39.262.jpg"
+  },
+  "_assets/images/figures/fig-2-10_01-1621_recto.jpg": {
+    "file": "_assets/fig-2-10_01-1621_recto.jpg",
+    "src": "_assets/images/figures/fig-2-10_01-1621_recto.jpg"
+  },
+  "_assets/images/figures/fig-2-11_Cree-Beaded-Armbands-and-Cuffs_S991.19393a,b.jpg": {
+    "file": "_assets/fig-2-11_Cree-Beaded-Armbands-and-Cuffs_S991.19393a_b.jpg",
+    "src": "_assets/images/figures/fig-2-11_Cree-Beaded-Armbands-and-Cuffs_S991.19393a,b.jpg"
+  },
+  "_assets/images/figures/fig-2-12_CMRussell-Coup-Stick_Society-Lance_S991.19.287.jpg": {
+    "file": "_assets/fig-2-12_CMRussell-Coup-Stick_Society-Lance_S991.19.287.jpg",
+    "src": "_assets/images/figures/fig-2-12_CMRussell-Coup-Stick_Society-Lance_S991.19.287.jpg"
+  },
+  "_assets/images/figures/fig-2-13_1961-171.jpg": {
+    "file": "_assets/fig-2-13_1961-171.jpg",
+    "src": "_assets/images/figures/fig-2-13_1961-171.jpg"
+  },
+  "_assets/images/figures/fig-2-14_1961-177.jpg": {
+    "file": "_assets/fig-2-14_1961-177.jpg",
+    "src": "_assets/images/figures/fig-2-14_1961-177.jpg"
+  },
+  "_assets/images/figures/fig-2-15_CMRussell-Buffalo-Horn-Headdress_S991.19.397_Back.jpg": {
+    "file": "_assets/fig-2-15_CMRussell-Buffalo-Horn-Headdress_S991.19.397_Back.jpg",
+    "src": "_assets/images/figures/fig-2-15_CMRussell-Buffalo-Horn-Headdress_S991.19.397_Back.jpg"
+  },
+  "_assets/images/figures/fig-2-16_1961-152.jpg": {
+    "file": "_assets/fig-2-16_1961-152.jpg",
+    "src": "_assets/images/figures/fig-2-16_1961-152.jpg"
+  },
+  "_assets/images/figures/fig-2-17_MHS_944-696.jpg": {
+    "file": "_assets/fig-2-17_MHS_944-696.jpg",
+    "src": "_assets/images/figures/fig-2-17_MHS_944-696.jpg"
+  },
+  "_assets/images/figures/fig-2-1_TU2009.39.7471A-B_o6.jpg": {
+    "file": "_assets/fig-2-1_TU2009.39.7471A-B_o6.jpg",
+    "src": "_assets/images/figures/fig-2-1_TU2009.39.7471A-B_o6.jpg"
+  },
+  "_assets/images/figures/fig-2-2_L2012-15-6.jpg": {
+    "file": "_assets/fig-2-2_L2012-15-6.jpg",
+    "src": "_assets/images/figures/fig-2-2_L2012-15-6.jpg"
+  },
+  "_assets/images/figures/fig-2-3_1965-169-50.jpg": {
+    "file": "_assets/fig-2-3_1965-169-50.jpg",
+    "src": "_assets/images/figures/fig-2-3_1965-169-50.jpg"
+  },
+  "_assets/images/figures/fig-2-4_Plains-Artist-Buffalo-Rawhide-ParflecheS991.19.364.jpg": {
+    "file": "_assets/fig-2-4_Plains-Artist-Buffalo-Rawhide-ParflecheS991.19.364.jpg",
+    "src": "_assets/images/figures/fig-2-4_Plains-Artist-Buffalo-Rawhide-ParflecheS991.19.364.jpg"
+  },
+  "_assets/images/figures/fig-2-5_shirt-front-and-back.jpg": {
+    "file": "_assets/fig-2-5_shirt-front-and-back.jpg",
+    "src": "_assets/images/figures/fig-2-5_shirt-front-and-back.jpg"
+  },
+  "_assets/images/figures/fig-2-6_Fort-Belknap-buckskin-leggings_S991.19.372a,b_pub.jpg": {
+    "file": "_assets/fig-2-6_Fort-Belknap-buckskin-leggings_S991.19.372a_b_pub.jpg",
+    "src": "_assets/images/figures/fig-2-6_Fort-Belknap-buckskin-leggings_S991.19.372a,b_pub.jpg"
+  },
+  "_assets/images/figures/fig-2-7.jpg": {
+    "file": "_assets/fig-2-7.jpg",
+    "src": "_assets/images/figures/fig-2-7.jpg"
+  },
+  "_assets/images/figures/fig-2-8_007_VIII-441.jpg": {
+    "file": "_assets/fig-2-8_007_VIII-441.jpg",
+    "src": "_assets/images/figures/fig-2-8_007_VIII-441.jpg"
+  },
+  "_assets/images/figures/fig-2-9_coat-front-and-back.jpg": {
+    "file": "_assets/fig-2-9_coat-front-and-back.jpg",
+    "src": "_assets/images/figures/fig-2-9_coat-front-and-back.jpg"
+  },
+  "_assets/images/figures/fig-3-10_Met_DP-15102-010.jpg": {
+    "file": "_assets/fig-3-10_Met_DP-15102-010.jpg",
+    "src": "_assets/images/figures/fig-3-10_Met_DP-15102-010.jpg"
+  },
+  "_assets/images/figures/fig-3-11_Foxley.jpg": {
+    "file": "_assets/fig-3-11_Foxley.jpg",
+    "src": "_assets/images/figures/fig-3-11_Foxley.jpg"
+  },
+  "_assets/images/figures/fig-3-12_cradleboard.jpg": {
+    "file": "_assets/fig-3-12_cradleboard.jpg",
+    "src": "_assets/images/figures/fig-3-12_cradleboard.jpg"
+  },
+  "_assets/images/figures/fig-3-13.jpg": {
+    "file": "_assets/fig-3-13.jpg",
+    "src": "_assets/images/figures/fig-3-13.jpg"
+  },
+  "_assets/images/figures/fig-3-1_1961-150.jpg": {
+    "file": "_assets/fig-3-1_1961-150.jpg",
+    "src": "_assets/images/figures/fig-3-1_1961-150.jpg"
+  },
+  "_assets/images/figures/fig-3-2_TU2009.39.273.35A-B_o6.jpg": {
+    "file": "_assets/fig-3-2_TU2009.39.273.35A-B_o6.jpg",
+    "src": "_assets/images/figures/fig-3-2_TU2009.39.273.35A-B_o6.jpg"
+  },
+  "_assets/images/figures/fig-3-3_975-12-213_300-Charlie-Josephine.jpg": {
+    "file": "_assets/fig-3-3_975-12-213_300-Charlie-Josephine.jpg",
+    "src": "_assets/images/figures/fig-3-3_975-12-213_300-Charlie-Josephine.jpg"
+  },
+  "_assets/images/figures/fig-3-4_TU2009.39.5849A_o6.jpg": {
+    "file": "_assets/fig-3-4_TU2009.39.5849A_o6.jpg",
+    "src": "_assets/images/figures/fig-3-4_TU2009.39.5849A_o6.jpg"
+  },
+  "_assets/images/figures/fig-3-5_TU2009.39.6173_o6.jpg": {
+    "file": "_assets/fig-3-5_TU2009.39.6173_o6.jpg",
+    "src": "_assets/images/figures/fig-3-5_TU2009.39.6173_o6.jpg"
+  },
+  "_assets/images/figures/fig-3-6_1961-150_detail.jpg": {
+    "file": "_assets/fig-3-6_1961-150_detail.jpg",
+    "src": "_assets/images/figures/fig-3-6_1961-150_detail.jpg"
+  },
+  "_assets/images/figures/fig-3-7.jpg": {
+    "file": "_assets/fig-3-7.jpg",
+    "src": "_assets/images/figures/fig-3-7.jpg"
+  },
+  "_assets/images/figures/fig-3-9_NMAI_132381.jpg": {
+    "file": "_assets/fig-3-9_NMAI_132381.jpg",
+    "src": "_assets/images/figures/fig-3-9_NMAI_132381.jpg"
+  },
+  "_assets/images/figures/fig-4-10_1961-154.jpg": {
+    "file": "_assets/fig-4-10_1961-154.jpg",
+    "src": "_assets/images/figures/fig-4-10_1961-154.jpg"
+  },
+  "_assets/images/figures/fig-4-11_1961-195.jpg": {
+    "file": "_assets/fig-4-11_1961-195.jpg",
+    "src": "_assets/images/figures/fig-4-11_1961-195.jpg"
+  },
+  "_assets/images/figures/fig-4-1_1964-193-18-B.jpg": {
+    "file": "_assets/fig-4-1_1964-193-18-B.jpg",
+    "src": "_assets/images/figures/fig-4-1_1964-193-18-B.jpg"
+  },
+  "_assets/images/figures/fig-4-2_1961-171.jpg": {
+    "file": "_assets/fig-4-2_1961-171.jpg",
+    "src": "_assets/images/figures/fig-4-2_1961-171.jpg"
+  },
+  "_assets/images/figures/fig-4-3_1961-135.jpg": {
+    "file": "_assets/fig-4-3_1961-135.jpg",
+    "src": "_assets/images/figures/fig-4-3_1961-135.jpg"
+  },
+  "_assets/images/figures/fig-4-4_1961-144.jpg": {
+    "file": "_assets/fig-4-4_1961-144.jpg",
+    "src": "_assets/images/figures/fig-4-4_1961-144.jpg"
+  },
+  "_assets/images/figures/fig-4-5_1961-125.jpg": {
+    "file": "_assets/fig-4-5_1961-125.jpg",
+    "src": "_assets/images/figures/fig-4-5_1961-125.jpg"
+  },
+  "_assets/images/figures/fig-4-6_1961-320.jpg": {
+    "file": "_assets/fig-4-6_1961-320.jpg",
+    "src": "_assets/images/figures/fig-4-6_1961-320.jpg"
+  },
+  "_assets/images/figures/fig-4-7_1961-151.jpg": {
+    "file": "_assets/fig-4-7_1961-151.jpg",
+    "src": "_assets/images/figures/fig-4-7_1961-151.jpg"
+  },
+  "_assets/images/figures/fig-4-8_1961-136.jpg": {
+    "file": "_assets/fig-4-8_1961-136.jpg",
+    "src": "_assets/images/figures/fig-4-8_1961-136.jpg"
+  },
+  "_assets/images/figures/fig-4-9_1961-169.jpg": {
+    "file": "_assets/fig-4-9_1961-169.jpg",
+    "src": "_assets/images/figures/fig-4-9_1961-169.jpg"
+  },
+  "_assets/images/figures/fig-5-1_P1979-66.jpg": {
+    "file": "_assets/fig-5-1_P1979-66.jpg",
+    "src": "_assets/images/figures/fig-5-1_P1979-66.jpg"
+  },
+  "_assets/images/figures/fig-5-2_1961-201.jpg": {
+    "file": "_assets/fig-5-2_1961-201.jpg",
+    "src": "_assets/images/figures/fig-5-2_1961-201.jpg"
+  },
+  "_assets/images/figures/fig-5-3_1961-196.jpg": {
+    "file": "_assets/fig-5-3_1961-196.jpg",
+    "src": "_assets/images/figures/fig-5-3_1961-196.jpg"
+  },
+  "_assets/images/figures/fig-5-4_1961-146.jpg": {
+    "file": "_assets/fig-5-4_1961-146.jpg",
+    "src": "_assets/images/figures/fig-5-4_1961-146.jpg"
+  },
+  "_assets/images/figures/fig-5-5_X1977-01-01.jpg": {
+    "file": "_assets/fig-5-5_X1977-01-01.jpg",
+    "src": "_assets/images/figures/fig-5-5_X1977-01-01.jpg"
+  },
+  "_assets/images/figures/fig-5-6_TU2009.39.5938A_o6.jpg": {
+    "file": "_assets/fig-5-6_TU2009.39.5938A_o6.jpg",
+    "src": "_assets/images/figures/fig-5-6_TU2009.39.5938A_o6.jpg"
+  },
+  "_assets/images/figures/fig-5-7_TU2009.39.6355_o6.jpg": {
+    "file": "_assets/fig-5-7_TU2009.39.6355_o6.jpg",
+    "src": "_assets/images/figures/fig-5-7_TU2009.39.6355_o6.jpg"
+  },
+  "_assets/images/figures/fig-5-8_1961-309-1.jpg": {
+    "file": "_assets/fig-5-8_1961-309-1.jpg",
+    "src": "_assets/images/figures/fig-5-8_1961-309-1.jpg"
+  },
+  "_assets/images/figures/fig-5-9_letter.jpg": {
+    "file": "_assets/fig-5-9_letter.jpg",
+    "src": "_assets/images/figures/fig-5-9_letter.jpg"
+  },
+  "_assets/images/illustrations/Illus-1_Intro-1-final-RGB_400.jpg": {
+    "file": "_assets/Illus-1_Intro-1-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-1_Intro-1-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-1_Intro-2-final-RGB_400.jpg": {
+    "file": "_assets/Illus-1_Intro-2-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-1_Intro-2-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-4_Collection-1-final-RGB_400.jpg": {
+    "file": "_assets/Illus-4_Collection-1-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-4_Collection-1-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-4_Collection-2-final-RGB_400.jpg": {
+    "file": "_assets/Illus-4_Collection-2-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-4_Collection-2-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-5_Sun-Worship-1-final-RGB_400.jpg": {
+    "file": "_assets/Illus-5_Sun-Worship-1-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-5_Sun-Worship-1-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-5_Sun-Worship-2-final-RGB_400.jpg": {
+    "file": "_assets/Illus-5_Sun-Worship-2-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-5_Sun-Worship-2-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-6_Hand-Talk-1-final-RGB_400.jpg": {
+    "file": "_assets/Illus-6_Hand-Talk-1-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-6_Hand-Talk-1-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-6_Hand-Talk-2-final-RGB_400.jpg": {
+    "file": "_assets/Illus-6_Hand-Talk-2-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-6_Hand-Talk-2-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-7_Animals-Autos-1-final-RGB_400.jpg": {
+    "file": "_assets/Illus-7_Animals-Autos-1-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-7_Animals-Autos-1-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-7_Animals-Autos-2-final-RGB_400.jpg": {
+    "file": "_assets/Illus-7_Animals-Autos-2-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-7_Animals-Autos-2-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-8_Outro-1-final-RGB_400.jpg": {
+    "file": "_assets/Illus-8_Outro-1-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-8_Outro-1-final-RGB_400.jpg"
+  },
+  "_assets/images/illustrations/Illus-8_Outro-2-final-RGB_400.jpg": {
+    "file": "_assets/Illus-8_Outro-2-final-RGB_400.jpg",
+    "src": "_assets/images/illustrations/Illus-8_Outro-2-final-RGB_400.jpg"
+  },
+  "_index-6dc591cd.js": {
+    "assets": [
+      "_assets/ibmplexsanscondensed-regular.eot",
+      "_assets/ibmplexsanscondensed-regular.woff2",
+      "_assets/ibmplexsanscondensed-regular.woff",
+      "_assets/ibmplexsanscondensed-italic.eot",
+      "_assets/ibmplexsanscondensed-italic.woff2",
+      "_assets/ibmplexsanscondensed-italic.woff",
+      "_assets/ibmplexsanscondensed-bold.eot",
+      "_assets/ibmplexsanscondensed-bold.woff2",
+      "_assets/ibmplexsanscondensed-bold.woff",
+      "_assets/ibmplexsanscondensed-bolditalic.eot",
+      "_assets/ibmplexsanscondensed-bolditalic.woff2",
+      "_assets/ibmplexsanscondensed-bolditalic.woff",
+      "_assets/notoserif-regular.eot",
+      "_assets/notoserif-regular.woff2",
+      "_assets/notoserif-regular.woff",
+      "_assets/notoserif-italic.eot",
+      "_assets/notoserif-italic.woff2",
+      "_assets/notoserif-italic.woff",
+      "_assets/notoserif-bold.eot",
+      "_assets/notoserif-bold.woff2",
+      "_assets/notoserif-bold.woff",
+      "_assets/notoserif-bolditalic.eot",
+      "_assets/notoserif-bolditalic.woff2",
+      "_assets/notoserif-bolditalic.woff",
+      "_assets/notosans-regular.eot",
+      "_assets/notosans-regular.woff2",
+      "_assets/notosans-regular.woff",
+      "_assets/notosans-italic.eot",
+      "_assets/notosans-italic.woff2",
+      "_assets/notosans-italic.woff",
+      "_assets/notosans-bold.eot",
+      "_assets/notosans-bold.woff2",
+      "_assets/notosans-bold.woff",
+      "_assets/notosans-bolditalic.eot",
+      "_assets/notosans-bolditalic.woff2",
+      "_assets/notosans-bolditalic.woff"
+    ],
+    "css": [
+      "_assets/index.css"
+    ],
+    "file": "_assets/index-6dc591cd.js"
+  },
+  "index.css": {
+    "file": "_assets/index.css",
+    "src": "index.css"
+  }
+}
