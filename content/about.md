@@ -42,6 +42,7 @@ Nenetta C. Tatum
 Allee Austin / *Associate Archivist and Records Manager*
 Selena Capraro / *Associate Registrar*
 Andrew Eschelbacher / *Director of Collections and Exhibitions*
+Jonathan Frembling / *Gentling Curator and Head of Archives*
 Will Gillham / *Editor and Publisher*
 Paul Leicht / *Photographer*
 Michelle Padilla / *Digital Content Strategist*
