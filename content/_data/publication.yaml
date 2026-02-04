@@ -96,7 +96,7 @@ contributor:
     image: contributors/wise_michael_d.jpg
     
   - id: isampson
-    type: secondary
+    type: primary
     first_name:  Ian
     last_name: Sampson
     title: Cartoonist, Printmaker, and Interdisciplinary Educator
