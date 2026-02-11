@@ -4,5 +4,4 @@ layout: page
 order: 501
 ---
 
-{% contributors context=publicationContributors format='bio' %}
-
+{% contributors context=publicationContributors type='primary' format='bio' %}
